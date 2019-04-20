@@ -1,0 +1,13 @@
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\bin\Debug\NETD-Lab6-EH.exe.config
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\bin\Debug\NETD-Lab6-EH.exe
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\bin\Debug\NETD-Lab6-EH.pdb
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\bin\Debug\NETD-Lab6-EH.xml
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD-Lab6-EH.vbprojResolveAssemblyReference.cache
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD_Lab6_EH.frmShippingAverage.resources
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD_Lab6_EH.Resources.resources
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD_Lab6_EH.frmPrimary.resources
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD_Lab6_EH.frmTextEditor.resources
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD-Lab6-EH.vbproj.GenerateResource.Cache
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD-Lab6-EH.exe
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD-Lab6-EH.xml
+C:\Users\ebhcz\Documents\Visual Studio 2015\Projects\NETD-Lab6-EH\NETD-Lab6-EH\obj\Debug\NETD-Lab6-EH.pdb
