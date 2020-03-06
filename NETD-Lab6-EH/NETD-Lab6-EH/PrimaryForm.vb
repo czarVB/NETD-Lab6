@@ -1,6 +1,5 @@
 ﻿'****************************************************************
 '* Name: Evan Heath
-'* Student ID: 100710750
 '* Date: April 19th, 2019
 '* Program Name: NETD-2202 Final Project: MDI Text Editor
 '* Purpose: A text editor that can open and edit multiple files at the same time using MDI
