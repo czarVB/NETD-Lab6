@@ -1,6 +1,5 @@
 ﻿'****************************************************************
 '* Name: Evan Heath
-'* Student ID: 100710750
 '* Date: February 22nd, 2019
 '* Program Name: Average Units Shipped for Multiple Employee's - NETD Lab 3
 '* Purpose: Calculate the average units shipped for 3 employee's and then the overall average
